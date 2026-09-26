@@ -1031,11 +1031,9 @@ The final MatchLens AI video combines:
 ✅ AI-based insights
 ✅ Final dashboard-style analytics video
 👨‍💻 Author
-
 Monishwaran K
 B.E. Mechanical Engineering
 Meenakshi Sundararajan Engineering College,Chennai
-
 Areas of Interest
 Automation & Robotics
 Computer Vision
