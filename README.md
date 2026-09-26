@@ -1032,10 +1032,9 @@ The final MatchLens AI video combines:
 ✅ Final dashboard-style analytics video
 👨‍💻 Author
 
-Naveen Kumar S
-
+Monishwaran K
 B.E. Mechanical Engineering
-Knowledge Institute of Technology, Salem
+Meenakshi Sundararajan Engineering College,Chennai
 
 Areas of Interest
 Automation & Robotics
